@@ -39,6 +39,6 @@ This repository contains my Java solutions for the LeetCode 75 study plan.
 | Dynamic Programming | 0 | 9 |
 | Greedy | 0 | 5 |
 
-Total: 0 / 75
+Total: 1 / 75
 ## Language
 Java
