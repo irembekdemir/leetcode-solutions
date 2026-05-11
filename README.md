@@ -21,23 +21,24 @@ This repository contains my Java solutions for the LeetCode 75 study plan.
 
 ## Progress
 
-| Topic | Problem Count |
-|---|---|
-| Arrays & Strings | 1/16 |
-| Two Pointers | 0/5 |
-| Sliding Window | 0/4 |
-| Prefix Sum | 0/2 |
-| Hash Map / Set | 0/4 |
-| Stack | 0/4 |
-| Queue | 0/2 |
-| Linked List | 0/6 |
-| Binary Tree / BST | 0/11 |
-| Graphs / BFS / DFS | 0/8 |
-| Heap / Priority Queue | 0/3 |
-| Binary Search | 0/4 |
-| Backtracking | 0/2 |
-| Dynamic Programming | 0/9 |
-| Greedy | 0/5 |
+| Topic | Solved | Total |
+|---|---|---|
+| Arrays & Strings | 1 | 16 |
+| Two Pointers | 0 | 5 |
+| Sliding Window | 0 | 4 |
+| Prefix Sum | 0 | 2 |
+| Hash Map / Set | 0 | 4 |
+| Stack | 0 | 4 |
+| Queue | 0 | 2 |
+| Linked List | 0 | 6 |
+| Binary Tree / BST | 0 | 11 |
+| Graphs / BFS / DFS | 0 | 8 |
+| Heap / Priority Queue | 0 | 3 |
+| Binary Search | 0 | 4 |
+| Backtracking | 0 | 2 |
+| Dynamic Programming | 0 | 9 |
+| Greedy | 0 | 5 |
 
+Total: 0 / 75
 ## Language
 Java
