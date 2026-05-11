@@ -1,0 +1,31 @@
+/*
+Problem: 1768. Merge Strings Alternately
+Difficulty: Easy
+
+Approach:
+- Traverse both strings simultaneously
+- Append chars alternately
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+class Solution {
+    public String mergeAlternately(String word1, String word2) {
+        StringBuilder result = new StringBuilder();
+        int maxLength = Math.max(word1.length(), word2.length());
+        for (int i=0; i< maxLength; i++){
+            if (i<word1.length()) {
+                result.append(word1.charAt(i));
+            }
+            if (i<word2.length()){
+                result.append(word2.charAt(i));
+            }
+        }
+        return result.toString();
+    }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        System.out.println(s.mergeAlternately("abc", "pqr"));
+    }
+}
