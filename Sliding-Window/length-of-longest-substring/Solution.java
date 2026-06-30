@@ -1,3 +1,19 @@
+/*
+Problem: 3. Longest Substring Without Repeating Characters
+Difficulty: Medium
+
+Approach:
+- Sliding Window & HashMap approach.
+- Use 'right' pointer to expand the window and scan characters.
+- Use a HashMap to store the latest index of each character.
+- If a duplicate character is found inside the current window, instantly
+  shrink the window by moving the 'left' pointer to 'index + 1'.
+- Calculate and update the maximum length at each step.
+
+Time Complexity: O(n) - Single pass over the string.
+Space Complexity: O(min(m, n)) - Size of the character map.
+*/
+
 import java.util.HashMap;
 
 class Solution {
