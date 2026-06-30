@@ -23,7 +23,7 @@ This repository contains my Java solutions for the LeetCode 75 study plan.
 
 | Topic | Solved | Total |
 |---|---|---|
-| Arrays & Strings | 1 | 16 |
+| Arrays & Strings | 2 | 16 |
 | Two Pointers | 0 | 5 |
 | Sliding Window | 1 | 4 |
 | Prefix Sum | 0 | 2 |
@@ -39,6 +39,6 @@ This repository contains my Java solutions for the LeetCode 75 study plan.
 | Dynamic Programming | 0 | 9 |
 | Greedy | 0 | 5 |
 
-Total: 2 / 75
+Total: 3 / 75
 ## Language
 Java
